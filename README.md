@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition-Using-Cnn---Learnerspace
+# Handwritten-Digit-Recognition-Using-Cnn-Learnerspace
